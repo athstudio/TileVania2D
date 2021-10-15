@@ -8,12 +8,12 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
+  - Climbing
+  - Player
+  - BackGround
   - 
   - 
   - 
@@ -49,4 +49,10 @@ TagManager:
     locked: 0
   - name: Platforms
     uniqueID: 3726780643
+    locked: 0
+  - name: Climbing
+    uniqueID: 707989315
+    locked: 0
+  - name: Player
+    uniqueID: 1879649339
     locked: 0
